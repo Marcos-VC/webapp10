@@ -48,4 +48,4 @@ Attributes:
 * By status: Filter by current element status
 
 #### Categorization
-Tag system for content classification
+* Tag system for content classification
