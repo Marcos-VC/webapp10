@@ -15,20 +15,30 @@
 Attributes:
 
 *id: Unique identifier 
+
 *name: Product name
+
 *description: Product description 
+
 *price: Product price 
+
 *category: Product category 
+
 *creation_date: Creation date 
 
 #### Secondary entity (Review):
 Attributes:
 
 *product_id: Reference to the product 
+
 *review_test: Review content 
+
 *rating: Score from 1 to 5 
+
 *author: Review author name 
+
 *review_date: Review date 
+
 *is_verified: Verified purchase flag 
 
 ### Images
