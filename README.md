@@ -1,7 +1,7 @@
 # webapp10
 
 ## Our goal is to make a videogame website "Steam" alike, called: MoreForPlaying
-
+ 
 ## Development team members:
 1. Paula de la Fuente Ruiz	| p.delafuente.2024@alumnos.urjc.es	| Paula-2704
 2. Francisco García González	| f.garcia.2024@alumnos.urjc.es	| Fran-G-G
